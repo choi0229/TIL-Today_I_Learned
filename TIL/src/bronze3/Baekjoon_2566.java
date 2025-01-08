@@ -1,4 +1,4 @@
-package array_2dimensional;
+package bronze3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package deepening1;
+package bronze5;
 
 public class Baekjoon_25083 {
 
