@@ -23,3 +23,23 @@ class SumAlgorithm
 
     }
 }
+
+// 등차수열
+class ArithmeticSequence
+{
+    static void Main2()
+    {
+        var sum = 0;
+
+        for(int i = 1; i <= 20; i++)
+        {
+            if(i % 2 != 0)
+            {
+                sum += i;
+            }
+        }
+
+        Console.WriteLine($"1부터 20까지의 홀수의 합 : ${sum}");
+
+    }
+}

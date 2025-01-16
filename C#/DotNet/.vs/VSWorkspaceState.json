@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DotNet",
+    "\\DotNet\\Algorithms"
   ],
+  "SelectedNode": "\\DotNet\\Algorithms\\SumAlgorithm.cs",
   "PreviewInSolutionExplorer": false
 }

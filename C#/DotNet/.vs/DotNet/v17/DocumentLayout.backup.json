@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C#\\DotNet\\",
+  "WorkspaceRootPath": "C:\\Users\\elcax_cte2iz4\\git\\repository\\TIL-Today_I_Learned-\\C#\\DotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26468A9D-A0F7-4809-A203-B2DE7320A93B}|DotNet\\DotNet.csproj|c:\\c#\\dotnet\\dotnet\\algorithms\\sumalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26468A9D-A0F7-4809-A203-B2DE7320A93B}|DotNet\\DotNet.csproj|solutionrelative:dotnet\\algorithms\\sumalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elcax_cte2iz4\\git\\repository\\TIL-Today_I_Learned-\\C#\\DotNet\\DotNet\\Algorithms\\SumAlgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DotNet\\Algorithms\\SumAlgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SumAlgorithm.cs",
-              "DocumentMoniker": "C:\\C#\\DotNet\\DotNet\\Algorithms\\SumAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\elcax_cte2iz4\\git\\repository\\TIL-Today_I_Learned-\\C#\\DotNet\\DotNet\\Algorithms\\SumAlgorithm.cs",
               "RelativeDocumentMoniker": "DotNet\\Algorithms\\SumAlgorithm.cs",
-              "ToolTip": "C:\\C#\\DotNet\\DotNet\\Algorithms\\SumAlgorithm.cs",
+              "ToolTip": "C:\\Users\\elcax_cte2iz4\\git\\repository\\TIL-Today_I_Learned-\\C#\\DotNet\\DotNet\\Algorithms\\SumAlgorithm.cs",
               "RelativeToolTip": "DotNet\\Algorithms\\SumAlgorithm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T13:29:51.829Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -5,3 +5,10 @@ C:\C#\DotNet\DotNet\obj\Debug\DotNet.csproj.AssemblyReference.cache
 C:\C#\DotNet\DotNet\obj\Debug\DotNet.csproj.CoreCompileInputs.cache
 C:\C#\DotNet\DotNet\obj\Debug\DotNet.exe
 C:\C#\DotNet\DotNet\obj\Debug\DotNet.pdb
+C:\Users\elcax_cte2iz4\git\repository\TIL-Today_I_Learned-\C#\DotNet\DotNet\obj\Debug\DotNet.csproj.AssemblyReference.cache
+C:\Users\elcax_cte2iz4\git\repository\TIL-Today_I_Learned-\C#\DotNet\DotNet\obj\Debug\DotNet.csproj.CoreCompileInputs.cache
+C:\Users\elcax_cte2iz4\git\repository\TIL-Today_I_Learned-\C#\DotNet\DotNet\obj\Debug\DotNet.exe
+C:\Users\elcax_cte2iz4\git\repository\TIL-Today_I_Learned-\C#\DotNet\DotNet\obj\Debug\DotNet.pdb
+C:\Users\elcax_cte2iz4\git\repository\TIL-Today_I_Learned-\C#\DotNet\DotNet\bin\Debug\DotNet.exe.config
+C:\Users\elcax_cte2iz4\git\repository\TIL-Today_I_Learned-\C#\DotNet\DotNet\bin\Debug\DotNet.exe
+C:\Users\elcax_cte2iz4\git\repository\TIL-Today_I_Learned-\C#\DotNet\DotNet\bin\Debug\DotNet.pdb
