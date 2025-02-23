@@ -66,5 +66,5 @@ public class Baekjoon_2580 {
             }
         }
         return true;
-    }
+    }CXZ
 }
